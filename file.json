@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/infayer/InfayerFramework/main/file.yaml",
+    "url": "https://raw.githubusercontent.com/infayer/Swagger-UI/main/file.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/infayer/InfayerFramework/main/file.yaml",
+            "url": "https://raw.githubusercontent.com/infayer/Swagger-UI/main/file.yaml",
             "name": "Foo"
         }
     ]
