@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/infayer/InfayerFramework/main/file.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/infayer/InfayerFramework/main/file.yaml",
+            "name": "Foo"
+        }
+    ]
+}
